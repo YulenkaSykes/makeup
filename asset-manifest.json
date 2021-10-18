@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/makeup/static/css/main.abe346e8.chunk.css",
+    "main.js": "/makeup/static/js/main.314d94b5.chunk.js",
+    "main.js.map": "/makeup/static/js/main.314d94b5.chunk.js.map",
+    "runtime-main.js": "/makeup/static/js/runtime-main.125f525d.js",
+    "runtime-main.js.map": "/makeup/static/js/runtime-main.125f525d.js.map",
+    "static/js/2.6b66d3b8.chunk.js": "/makeup/static/js/2.6b66d3b8.chunk.js",
+    "static/js/2.6b66d3b8.chunk.js.map": "/makeup/static/js/2.6b66d3b8.chunk.js.map",
+    "static/js/3.0dab4702.chunk.js": "/makeup/static/js/3.0dab4702.chunk.js",
+    "static/js/3.0dab4702.chunk.js.map": "/makeup/static/js/3.0dab4702.chunk.js.map",
+    "index.html": "/makeup/index.html",
+    "static/css/main.abe346e8.chunk.css.map": "/makeup/static/css/main.abe346e8.chunk.css.map",
+    "static/js/2.6b66d3b8.chunk.js.LICENSE.txt": "/makeup/static/js/2.6b66d3b8.chunk.js.LICENSE.txt",
+    "static/media/Vector 1.d22a1eb8.svg": "/makeup/static/media/Vector 1.d22a1eb8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.125f525d.js",
+    "static/js/2.6b66d3b8.chunk.js",
+    "static/css/main.abe346e8.chunk.css",
+    "static/js/main.314d94b5.chunk.js"
+  ]
+}
